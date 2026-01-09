@@ -1,0 +1,71 @@
+/* Light theme */
+.theme-light { 
+  --bg: #FFFFFF; 
+  --card-bg: #F8F9FB; 
+  --text-main: #1F2937; 
+  --text-muted: #6B7280; 
+  --primary: #4F46E5; 
+}
+
+/* Dark theme */
+.theme-dark { 
+  --bg: #111827; 
+  --card-bg: #1E293B; 
+  --text-main: #E5E7EB; 
+  --text-muted: #9CA3AF; 
+  --primary: #4F46E5; 
+}
+
+/* Red theme */
+.theme-red { 
+  --bg: #FFCCCC; 
+  --card-bg: #FFFFFF; 
+  --text-main: #660000; 
+  --text-muted: #993333; 
+  --primary: #FF0000; 
+}
+
+/* Green theme */
+.theme-green { 
+  --bg: #CCFFCC; 
+  --card-bg: #FFFFFF; 
+  --text-main: #006600; 
+  --text-muted: #339933; 
+  --primary: #00FF00; 
+}
+
+/* Blue theme */
+.theme-blue { 
+  --bg: #CCCCFF; 
+  --card-bg: #FFFFFF; 
+  --text-main: #000066; 
+  --text-muted: #333399; 
+  --primary: #0000FF; 
+}
+
+/* Yellow theme */
+.theme-yellow { 
+  --bg: #FFFFCC; 
+  --card-bg: #FFFFFF; 
+  --text-main: #666600; 
+  --text-muted: #999933; 
+  --primary: #FFFF00; 
+}
+
+/* Magenta theme */
+.theme-magenta { 
+  --bg: #FFCCFF; 
+  --card-bg: #FFFFFF; 
+  --text-main: #660066; 
+  --text-muted: #993399; 
+  --primary: #FF00FF; 
+}
+
+/* Cyan theme */
+.theme-cyan { 
+  --bg: #CCFFFF; 
+  --card-bg: #FFFFFF; 
+  --text-main: #006666; 
+  --text-muted: #339999; 
+  --primary: #00FFFF; 
+}
